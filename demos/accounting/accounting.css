@@ -52,7 +52,8 @@
     --yellow: #ecab23;
     --medium-gray: #7c898d;
     --solitude-blue: #f4f7f9;
-} 
+    --text-dark-gray: #1e3238;
+}
 /* reset */
 body {
     font-size: 18px;
